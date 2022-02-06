@@ -1,7 +1,7 @@
 # QRather
 
 
-****************PROJECT WILL BE UPLOAD AFTER LAUNCH***********************
+****************PROJECT WILL BE UPLOADED AFTER LAUNCH***********************
  
  
 QRather app will be the fastest QR code scanner out there. QRather is an essential QR reader for every Android device. Library used for scanning is Zxiing and Karumi.Dexter is used to manage Runtime permissions.
@@ -11,3 +11,5 @@ QRather app will be the fastest QR code scanner out there. QRather is an essenti
 
 ![qrr1](https://user-images.githubusercontent.com/72141924/140989827-677ff0a0-b572-413b-9c5b-54da14b99e69.jpg)   
 ![qrr](https://user-images.githubusercontent.com/72141924/140989909-2e5b0f50-d968-4e1c-ad56-104a09e7da39.jpg)
+![image](https://user-images.githubusercontent.com/72141924/152697019-757d49a9-80e2-451e-a42d-1b7f07f716b2.png)
+
